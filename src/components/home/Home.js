@@ -6,9 +6,9 @@ import { MdExplore } from 'react-icons/md';
 
 const Home = () => {
   return (
-    <div className="home">
+    <div className="home dark:bg-gray-800 dark:text-white ease-in duration-200">
       <div className="container h-screen flex items-end ">
-        <div className="section">
+        <div className="section dark:bg-gray-800 ease-in duration-200 ">
           <div className="section1 px-5 flex-col ">
             <h3 className="text-5xl">Welcome To My Page</h3>
             <h3 className="text-4xl">My Name is Farhan</h3>
