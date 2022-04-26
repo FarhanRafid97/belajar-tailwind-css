@@ -14,7 +14,7 @@ const Section2 = () => {
   }, [width]);
 
   return (
-    <div class="section2 dark:bg-gray-800 dark:text-white ease-in duration-200">
+    <div class="section2  bg-gray-100 dark:bg-gray-800 dark:text-white ease-in duration-200">
       <div className="container pt-5 flex w-screen flex-col ">
         {dataContent.map((content, index) => (
           <>

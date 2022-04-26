@@ -11,9 +11,7 @@ function App() {
       <Home />
       <Section2 />
 
-      <Routes>
-        <Route path="/" element={<Navbar />} />
-      </Routes>
+      <Routes>{/* <Route path="/" element={<Navbar />} /> */}</Routes>
     </div>
   );
 }

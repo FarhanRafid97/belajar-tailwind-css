@@ -1,7 +1,7 @@
 .section {
   display: flex;
   border-radius: 40px;
-  background-color: #ffff;
+
   box-shadow: 5px 5px 10px #777676, -5px -5px 10px #ffffff;
   width: 100%;
   min-height: 82%;

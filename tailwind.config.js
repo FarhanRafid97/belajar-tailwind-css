@@ -1,5 +1,6 @@
 module.exports = {
   darkMode: 'class',
+  bgDark: 'bg-gray-800',
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
@@ -10,6 +11,7 @@ module.exports = {
         font: '#2EA3F8',
         button: '#fca311',
         hover: '#fcbf49',
+        bgDark: 'bg-gray-900',
       },
     },
     container: {
